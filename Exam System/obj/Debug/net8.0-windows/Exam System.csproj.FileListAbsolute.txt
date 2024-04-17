@@ -1,0 +1,658 @@
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.exe
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.deps.json
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.runtimeconfig.json
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.pdb
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Humanizer.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.AssemblyReference.cache
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form1.resources
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.GenerateResource.cache
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfoInputs.cache
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfo.cs
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CopyComplete
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\refint\Exam System.dll
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.pdb
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.genruntimeconfig.cache
+D:\ITI\Projects\Windows Form\Examination System\Exam System\Exam System\obj\Debug\net8.0-windows\ref\Exam System.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.exe
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.deps.json
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.runtimeconfig.json
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.pdb
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form1.resources
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfo.cs
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CopyComplete
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\refint\Exam System.dll
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.pdb
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.genruntimeconfig.cache
+C:\Users\hp\Downloads\Exam System-20240304T111126Z-001\Exam System\Exam System\obj\Debug\net8.0-windows\ref\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.exe
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.deps.json
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.runtimeconfig.json
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.pdb
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.AssemblyReference.cache
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form1.resources
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.GenerateResource.cache
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfoInputs.cache
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfo.cs
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CoreCompileInputs.cache
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CopyComplete
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\refint\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.pdb
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.genruntimeconfig.cache
+D:\Iti\projects\Exam System\Exam System\Exam System\obj\Debug\net8.0-windows\ref\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.exe
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.deps.json
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.runtimeconfig.json
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.pdb
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Iti\projects\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.AssemblyReference.cache
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form1.resources
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Properties.Resources.resources
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.GenerateResource.cache
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfoInputs.cache
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfo.cs
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CoreCompileInputs.cache
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CopyComplete
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\refint\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.pdb
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.genruntimeconfig.cache
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\ref\Exam System.dll
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form2.resources
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form3.resources
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.exe
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.deps.json
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.runtimeconfig.json
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Exam System.pdb
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Core.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Azure.Identity.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Humanizer.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+G:\Exam System\Exam System\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.AssemblyReference.cache
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form1.resources
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form2.resources
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form3.resources
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Properties.Resources.resources
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.GenerateResource.cache
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfoInputs.cache
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.AssemblyInfo.cs
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CoreCompileInputs.cache
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.csproj.CopyComplete
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.dll
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\refint\Exam System.dll
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.pdb
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam System.genruntimeconfig.cache
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\ref\Exam System.dll
+G:\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form4.resources
+D:\Iti\projects\Exam System\Exam System\obj\Debug\net8.0-windows\Exam_System.Form4.resources
